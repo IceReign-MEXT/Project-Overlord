@@ -1,0 +1,5 @@
+# .gitignore for Project Overlord
+__pycache__/
+venv/
+# CRITICAL: Protects your real secrets
+.env
